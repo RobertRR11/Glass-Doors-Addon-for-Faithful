@@ -1,0 +1,7 @@
+Supported:
+- 1.16.x
+- 1.15.x
+- 1.14.x
+
+not tested but should work:
+- 1.13.x
