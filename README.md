@@ -1,5 +1,10 @@
 # Glass Doors Addon for Faithful
 
+![Resource Pack Version](https://img.shields.io/badge/Resource%20Pack%20Version-16.0.6-brightgreen)
+![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.2-brightgreen)
+![Size](https://img.shields.io/github/repo-size/RobertRR11/Glass-Doors-Addon-for-Faithful)
+![Discord](https://img.shields.io/discord/614160586032414845?color=9cf&label=Faithful%20Addons%20Discord)
+
 ![Header](https://i.imgur.com/NhSd4sG.png)
 
 Do you want to add some fancy looking glass panes to your doors? Then this addon is for you! This addon for the Faithful 32x texture pack makes your doors and trapdoors have glass panes in them!
